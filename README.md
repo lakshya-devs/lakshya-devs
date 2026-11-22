@@ -6,9 +6,9 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies and developing creative software solutions.
+- 🤔 &nbsp; Mastering DSA, solving complex problems, and building innovative software solutions.
 - 🎓 &nbsp; First-Year Student at Swami Keshvanand Institute of Technology (SKIT), Jaipur, India.
-- 🌱 &nbsp; Currently Exploring Data Structures and Algorithm, and Web Development.
+- 🌱 &nbsp; Currently Exploring Data Structures and Algorithm, and System Design.
 - Open for project collaboration, learning opportunities, and internships.
 
 <h3>🛠 Tech Stack</h3>
@@ -20,14 +20,13 @@
 - 🔧 &nbsp; Git | GitHub | VS Code
 
 
-![github stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true)
 
 ### 📫🤝🏻 Connect with Me
 
- - Connect with me on [LinkedIn](YOUR_LINKEDIN_URL) 👨🏻‍💻
- - Shoot Me an [Email](mailto:YOUR_EMAIL) 💌
+ - Connect with me on [LinkedIn](www.linkedin.com/in/lakshya-sharma-dev) 👨🏻‍💻
+ - Shoot Me an [Email](mailto:lakshya.dev26@gmail.com) 💌
 
 
 
 
- ⭐️ From [Lakshya](https://github.com/YOUR_GITHUB_USERNAME)
+ ⭐️ From [Lakshya](https://github.com/lakshya-devs)
