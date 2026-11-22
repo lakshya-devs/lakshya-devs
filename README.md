@@ -25,8 +25,3 @@
 
  - Connect with me on [LinkedIn](www.linkedin.com/in/lakshya-sharma-dev) 👨🏻‍💻
  - Shoot Me an [Email](mailto:lakshya.dev26@gmail.com) 💌
-
-
-
-
- ⭐️ From [Lakshya](https://github.com/lakshya-devs)
