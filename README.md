@@ -23,5 +23,5 @@
 
 ### 📫🤝🏻 Connect with Me
 
- - Connect with me on [LinkedIn](www.linkedin.com/in/lakshya-sharma-dev) 👨🏻‍💻
+ - Connect with me on [LinkedIn](https://www.linkedin.com/in/lakshya-sharma-dev/) 👨🏻‍💻
  - Shoot Me an [Email](mailto:lakshya.dev26@gmail.com) 💌
